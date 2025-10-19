@@ -1,5 +1,3 @@
----
-
 # 🧠 Second Brain – Your Personal Knowledge Hub
 
 **Second Brain** is a digital knowledge management system designed to help you store, organize, and access links, notes, and ideas efficiently. Whether it’s YouTube videos, documents, or resources from Notion, Second Brain keeps all your important content in one place so you can revisit it anytime.
