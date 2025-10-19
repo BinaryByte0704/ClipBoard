@@ -1,5 +1,3 @@
-Absolutely! Here's a polished and more **descriptive README** for your app, without screenshots, and structured for clarity and professionalism:
-
 ---
 
 # 🧠 Second Brain – Your Personal Knowledge Hub
